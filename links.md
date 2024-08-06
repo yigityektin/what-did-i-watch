@@ -1,0 +1,7 @@
+- [How SSH Works, Mental Outlaw](https://youtu.be/5JvLV2-ngCI?si=R-MrKV4hZaJOteDm)
+- [Understanding B-Trees, Spanning Tree](https://youtu.be/K1a2Bk8NrYQ?si=Hgll-Efbnnw7ySWw)
+- [But, what is Virtual Memory?, Tech with Nikola](https://youtu.be/A9WLYbE0p-I?si=x2WPdu-fobWFyVU3)
+- [Crowdstruck (Windows Outage), Computerphile](https://youtu.be/rlaNMJeA1EA?si=2nG-G9uei1saP7H1)
+- [How Discord Stores TRILLIONS of Messages, Coding with Lewis](https://youtu.be/lLrzoyU4BPc?si=z36TIvp9T8iXfV2p)
+- [7 Cryptography Concepts Every Developer Should Know, Fireship](https://youtu.be/NuyzuNBFWxQ?si=uFyEvfaTsVue3Yr6)
+- [OP Lbas Launching an OP Stack chain in 30 minutes or I shave my head, ETHGlobal](https://www.youtube.com/live/_s4cuDbc710?si=AP_UFF9AAh6a_h3r)
